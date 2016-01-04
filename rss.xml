@@ -4,7 +4,7 @@
         <description><![CDATA[A repository for things of interest I'd like to share with you]]></description>
         <link>https://thegrid.ai/repertoire/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 14:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 14:18:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/repertoire/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Autoportrait]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/repertoire/autoportrait/index.html</link>
             <guid isPermaLink="false">96488eec-8fec-49c7-a478-5ba8417bb912</guid>
             <pubDate>Mon, 04 Jan 2016 12:35:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gramazio Kohler Research at ETH Zurich]]></title>
-            <description><![CDATA[<article><h1>Gramazio Kohler Research at ETH Zurich</h1><p>Intersections between architecture and robotics</p></article>]]></description>
-            <link>https://thegrid.ai/repertoire/gramazio-kohler-research-at-eth-zurich/index.html</link>
-            <guid isPermaLink="false">7792ce60-b511-4632-a05e-ba6505252552</guid>
-            <pubDate>Mon, 04 Jan 2016 14:15:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
