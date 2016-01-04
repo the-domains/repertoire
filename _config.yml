@@ -1,0 +1,28 @@
+name: repertoire
+favicon: null
+layout_spectrum: 0.30439050029963255
+typography_spectrum: 0.011999781476333737
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2404246679507196
+  lightness: 0.15196334361098707
+  saturation: 0.8737872366327792
+  rhythmicContrast: 0.6114576340187341
+purpose: []
