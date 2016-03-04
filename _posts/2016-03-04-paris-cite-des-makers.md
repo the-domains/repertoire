@@ -6,22 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Discours d'introduction présentation du plan 'Paris Cité des Makers', Hotel de Ville de Paris le 24 février 2016"
-datePublished: '2016-03-04T11:27:07.243Z'
-dateModified: '2016-03-04T11:26:50.317Z'
+datePublished: '2016-03-04T11:52:15.853Z'
+dateModified: '2016-03-04T11:45:27.258Z'
 title: Paris Cité des Makers
 author: []
+sourcePath: _posts/2016-03-04-paris-cite-des-makers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-paris-cite-des-makers.md
-published: true
 url: paris-cite-des-makers/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/065744c7-ffec-41f5-b7ae-a1e2be692a11.png)
+
 Bonjour, je suis Bertier Luyt, et je suis un maker.
 
 Merci d'être venus si nombreux aujourd'hui pour la présentation du plan [Paris Cité des Makers][0]. 
@@ -59,6 +61,7 @@ Enfin, je remercie les équipes de [Maker Faire][9] avec lesquelles j'ai la chan
 ****
 
 [Impact of the Maker Movement][10]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae1557c8-d77d-415d-a202-d3b13d611ac4.png)
 
 [0]: http://www.paris.fr/actualites/paris-cite-des-makers-participez-aux-ateliers-3387
 [1]: http://makezine.com/author/dalepd/
