@@ -4,7 +4,7 @@
         <description><![CDATA[A repository for things of interest I'd like to share with you]]></description>
         <link>https://thegrid.ai/repertoire/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 11:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 11:59:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/repertoire/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Paris Cité des Makers]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/repertoire/autoportrait/index.html</link>
             <guid isPermaLink="false">96488eec-8fec-49c7-a478-5ba8417bb912</guid>
             <pubDate>Mon, 04 Jan 2016 12:35:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bibliographie</p>]]></description>
+            <link>https://thegrid.ai/repertoire/96191347-7aaf-4f75-ad94-48788def3795/index.html</link>
+            <guid isPermaLink="false">96191347-7aaf-4f75-ad94-48788def3795</guid>
+            <pubDate>Fri, 04 Mar 2016 11:59:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
