@@ -4,7 +4,7 @@
         <description><![CDATA[A repository for things of interest I'd like to share with you]]></description>
         <link>https://thegrid.ai/repertoire/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 11:59:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 12:03:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/repertoire/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Paris Cité des Makers]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[Bibliographie]]></title>
-            <description><![CDATA[<h1>Bibliographie</h1>]]></description>
+            <description><![CDATA[<article><h1>Bibliographie</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62b18be6048efa5e5fc735c4b8294a79780394de.png"></article>]]></description>
             <link>https://thegrid.ai/repertoire/96191347-7aaf-4f75-ad94-48788def3795/index.html</link>
             <guid isPermaLink="false">96191347-7aaf-4f75-ad94-48788def3795</guid>
-            <pubDate>Fri, 04 Mar 2016 11:59:34 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 12:03:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
