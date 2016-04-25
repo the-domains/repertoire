@@ -1,31 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[A repository for things of interest I'd like to share with you]]></title>
-        <description><![CDATA[A repository for things of interest I'd like to share with you]]></description>
+        <title><![CDATA[A repository for things I'd like to share with you]]></title>
+        <description><![CDATA[A repository for things I'd like to share with you]]></description>
         <link>https://thegrid.ai/repertoire/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 12:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 09:24:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/repertoire/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bibliography]]></title>
-            <description><![CDATA[<article><h1>Bibliography</h1><p>Bibliographie</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62b18be6048efa5e5fc735c4b8294a79780394de.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f49e9d21-dfc3-4d2f-9c8d-2c91ca6d39be.png">]]></description>
             <link>https://thegrid.ai/repertoire/96191347-7aaf-4f75-ad94-48788def3795/index.html</link>
             <guid isPermaLink="false">96191347-7aaf-4f75-ad94-48788def3795</guid>
             <pubDate>Fri, 04 Mar 2016 12:05:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paris Cité des Makers]]></title>
-            <description><![CDATA[<article><h1>Paris Cité des Makers</h1><p>Bonjour, je suis Bertier Luyt, et je suis un maker.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32f024b00cf392211e69cf38df99ec249f3870e8.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae1557c8-d77d-415d-a202-d3b13d611ac4.png">]]></description>
             <link>https://thegrid.ai/repertoire/paris-cite-des-makers/index.html</link>
             <guid isPermaLink="false">6561f5de-7e1c-4132-92d1-b9057e6ec2f8</guid>
             <pubDate>Fri, 04 Mar 2016 11:52:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Autoportrait]]></title>
-            <description><![CDATA[<article><h1>Autoportrait</h1><p>Bertier Luyt is a professionnal maker-entrepreneur, self educated, father of two kids. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/355724e5bee1b26604ac5e38df7b81bcaf3e7cb9.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/479c430e-119b-4f5a-84e0-b3a9b6ac9fd2.jpg">]]></description>
             <link>https://thegrid.ai/repertoire/autoportrait/index.html</link>
             <guid isPermaLink="false">96488eec-8fec-49c7-a478-5ba8417bb912</guid>
             <pubDate>Mon, 04 Jan 2016 12:35:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zero to Maker]]></title>
+            <description><![CDATA[<p>Je m'appelle Bertier Luyt et je suis un Maker.</p>]]></description>
+            <link>https://thegrid.ai/repertoire/zero-to-maker/index.html</link>
+            <guid isPermaLink="false">2786d40a-7b7b-4e8b-bf7b-f783abb080e3</guid>
+            <pubDate>Mon, 25 Apr 2016 09:24:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
