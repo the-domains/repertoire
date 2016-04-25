@@ -4,8 +4,15 @@
         <description><![CDATA[A repository for things I'd like to share with you]]></description>
         <link>https://thegrid.ai/repertoire/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 09:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 09:28:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/repertoire/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zero to Maker]]></title>
+            <description><![CDATA[<p>Je m'appelle Bertier Luyt et je suis un Maker.</p>]]></description>
+            <link>https://thegrid.ai/repertoire/zero-to-maker/index.html</link>
+            <guid isPermaLink="false">2786d40a-7b7b-4e8b-bf7b-f783abb080e3</guid>
+            <pubDate>Mon, 25 Apr 2016 09:27:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bibliography]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f49e9d21-dfc3-4d2f-9c8d-2c91ca6d39be.png">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/repertoire/autoportrait/index.html</link>
             <guid isPermaLink="false">96488eec-8fec-49c7-a478-5ba8417bb912</guid>
             <pubDate>Mon, 04 Jan 2016 12:35:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zero to Maker]]></title>
-            <description><![CDATA[<p>Je m'appelle Bertier Luyt et je suis un Maker.</p>]]></description>
-            <link>https://thegrid.ai/repertoire/zero-to-maker/index.html</link>
-            <guid isPermaLink="false">2786d40a-7b7b-4e8b-bf7b-f783abb080e3</guid>
-            <pubDate>Mon, 25 Apr 2016 09:24:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
