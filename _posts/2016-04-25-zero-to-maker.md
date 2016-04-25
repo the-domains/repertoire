@@ -1,18 +1,23 @@
 ---
-authors: []
-dateModified: '2016-04-25T11:49:48.842Z'
-datePublished: '2016-04-25T12:39:00.411Z'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
-publisher: {}
-title: ''
 description: "Je m'appelle Bertier Luyt et je suis un Maker."
+datePublished: '2016-04-25T16:17:04.888Z'
+dateModified: '2016-04-25T15:50:41.271Z'
+title: ''
 author: []
-starred: true
 sourcePath: _posts/2016-04-25-zero-to-maker.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: zero-to-maker/index.html
 _type: Article
 
@@ -91,6 +96,10 @@ Les Makers m'ont touché par leur enthousiasme, leur optimisme, leur confiance d
 
 Venez lez rencontrer nombreux à [Maker Faire Paris 2016][41].
 
+Bertier Luyt
+
+fondateur [le FabShop][42], [le FabClub][43], [Maker Faire France][44].
+
 [0]: www.makerfaire.com
 [1]: http://laughingsquid.com/photos-world-maker-faire-new-york-2011/
 [2]: www.makezine.com
@@ -132,4 +141,7 @@ Venez lez rencontrer nombreux à [Maker Faire Paris 2016][41].
 [38]: http://www2.deloitte.com/us/en/pages/center-for-the-edge/topics/maker-movement.html
 [39]: https://www.amazon.fr/Lâge-multitude-Entreprendre-gouverner-révolution/dp/2200277830
 [40]: http://lacool.co/
-[41]: www.makerfaireparis.com "Maker Faire Paris"
+[41]: http://www.makerfaireparis.com/
+[42]: http://www.lefabshop.fr/
+[43]: http://www.lefabclub.paris/
+[44]: http;/www.makerfaire.fr
