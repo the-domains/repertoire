@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Je m'appelle Bertier Luyt et je suis un Maker."
-datePublished: '2016-04-25T09:24:35.526Z'
-dateModified: '2016-04-25T09:24:16.179Z'
+datePublished: '2016-04-25T09:27:40.183Z'
+dateModified: '2016-04-25T09:25:30.641Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-25-zero-to-maker.md
 published: true
+starred: true
 url: zero-to-maker/index.html
 _type: Article
 
