@@ -4,19 +4,14 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "Je m'appelle Bertier Luyt et je suis un Maker."
-datePublished: '2016-04-25T16:17:04.888Z'
-dateModified: '2016-04-25T15:50:41.271Z'
+description: Je m'appelle Bertier Luyt et je suis un Maker.
+datePublished: '2016-06-14T09:23:55.502Z'
+dateModified: '2016-06-14T09:22:31.541Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-zero-to-maker.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: true
 url: zero-to-maker/index.html
 _type: Article
