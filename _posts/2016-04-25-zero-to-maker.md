@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Je m'appelle Bertier Luyt et je suis un Maker.
-datePublished: '2016-06-14T09:23:55.502Z'
-dateModified: '2016-06-14T09:22:31.541Z'
+datePublished: '2016-06-14T09:24:39.997Z'
+dateModified: '2016-06-14T09:24:02.828Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-zero-to-maker.md
